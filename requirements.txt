@@ -1,0 +1,15 @@
+demoji
+seaborn
+dataclasses
+numpy 
+regex
+tqdm
+flashtext
+zstandard
+sentencepiece
+datasets >= 1.1.3
+better-profanity
+wandb
+nltk
+transformers==4.20.1
+tensorboardX
